@@ -1,0 +1,14 @@
+{
+	"BPI4": {
+		"details": "Banana Pi4",
+		"type": "2",
+		"build": "2305",
+		"config": ".config_bpi4",
+		"image1": "openwrt-mediatek-filogic-bananapi_bpi-r4-squashfs-sysupgrade.itb",
+		"image2": "openwrt-mediatek-filogic-bananapi_bpi-r4-sdcard.img.gz",
+		"imagepath": "/mediatek/filogic/",
+		"mod": "Banana-Pi4",
+		"ext1": "-upgrade.itb",
+		"ext2": "-sdcard.img.gz"
+	}
+}
